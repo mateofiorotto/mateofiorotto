@@ -1,9 +1,5 @@
 ## Hola, soy Mateo Fiorotto👋
-<style>
-  .technologies a img {
-    margin-right: 10px; /* Espaciado a la derecha */
-  }
-</style>
+
 <br>
 
 - 🧑‍💻 Desarrollador y Diseñador Web.
