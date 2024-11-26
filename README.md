@@ -63,28 +63,25 @@
 <h2 align="left">Herramientas</h2>
 <p class="tools" align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40" />
   </a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_aftereffects/adobe_aftereffects-icon.svg" alt="after effects" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg" alt="after effects" width="40" height="40" />
   </a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_premierepro/adobe_premierepro-icon.svg" alt="premiere pro" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg" alt="premiere pro" width="40" height="40" />
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop.svg" alt="photoshop" width="40" height="40" />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://slack.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
   </a>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/notionio/notionio-icon.svg" alt="notion" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40" />
   </a>
 </p>
 
