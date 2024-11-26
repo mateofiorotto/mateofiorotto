@@ -4,7 +4,7 @@
 
 - 🖥️ Desarrollador y Diseñador Web Fullstack.
 - 💼 Actualmente trabajo en la municipalidad de Gualeguaychú, Argentina en desarrollo web con PHP y aportando ideas de diseño para la web de la municipalidad.
-- 🌱 Próximos pasos a aprender: Laravel y Stack MERN.
+- 🌱 Próximos pasos a aprender: Laravel y Stack MERN. También estoy interesado en otros lenguajes como Python, Java o C#, pero solo en tiempos libres.
 - 🎓 Estudio la carrera "Programación y Diseño Web" en <a href="https://davinci.edu.ar/carreras/desarrollo-web-y-mobile">Escuela Da Vinci</a>.
 
 Me encuentro abierto a otros trabajos y proyectos relacionados con la web, sin importar si es necesario usar otra tecnología. ¡Estoy dispuesto a aprenderla y usarla, todo suma!
