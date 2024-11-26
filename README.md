@@ -75,7 +75,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg" alt="premiere pro" width="40" height="40" />
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop.svg" alt="photoshop" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
