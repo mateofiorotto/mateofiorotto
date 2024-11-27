@@ -1,17 +1,17 @@
-## Hola, soy Mateo Fiorotto👋
+## Hello, I'm Mateo Fiorotto👋
 
 <br>
 
-- 🖥️ Desarrollador y Diseñador Web Fullstack.
-- 💼 Actualmente trabajo en la municipalidad de Gualeguaychú, Argentina en desarrollo web con PHP y aportando ideas de diseño para la web de la municipalidad.
-- 🌱 Próximos pasos a aprender: Laravel y Stack MERN. También estoy interesado en otros lenguajes como Python, Java o C#, pero solo en tiempos libres.
-- 🎓 Estudio la carrera "Programación y Diseño Web" en <a href="https://davinci.edu.ar/carreras/desarrollo-web-y-mobile">Escuela Da Vinci</a>.
+🖥️ Fullstack Web Developer and Designer.
+💼 Currently working at the municipality of Gualeguaychú, Argentina, in web development with PHP and contributing design ideas for the municipal website.
+🌱 Next steps: Learning Laravel and the MERN stack. I am also interested in other languages like Python, Java, or C#, but only in my free time.
+🎓 Studying "Web Programming and Design" at Escuela Da Vinci.
 
-Me encuentro abierto a otros trabajos y proyectos relacionados con la web, sin importar si es necesario usar otra tecnología. ¡Estoy dispuesto a aprenderla y usarla, todo suma!
+I am open to other web-related jobs and projects, regardless of whether they require using a different technology. I'm willing to learn and use it—everything adds up!
 
 <br>
 
-<h2 align="left">Contactame:</h2>
+<h2 align="left">Get in touch:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/mateo-fiorotto/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -26,7 +26,7 @@ Me encuentro abierto a otros trabajos y proyectos relacionados con la web, sin i
 
 <br>
 
-<h2 align="left">Tecnologías</h2>
+<h2 align="left">Technologies</h2>
 <p class="technologies" align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
@@ -59,7 +59,7 @@ Me encuentro abierto a otros trabajos y proyectos relacionados con la web, sin i
 
 <br>
 
-<h2 align="left">Herramientas</h2>
+<h2 align="left">Tools</h2>
 <p class="tools" align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
@@ -87,7 +87,7 @@ Me encuentro abierto a otros trabajos y proyectos relacionados con la web, sin i
 
 <br>
 
-<h3>Datos de mis repositorios en general:</h3>
+<h3>Profile data:</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mateofiorotto&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="mateo skills" 
