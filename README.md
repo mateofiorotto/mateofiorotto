@@ -3,8 +3,11 @@
 <br>
 
 🖥️ Fullstack Web Developer and Designer.
+<br>
 💼 Currently working at the municipality of Gualeguaychú, Argentina, in web development with PHP and contributing design ideas for the municipal website.
+<br>
 🌱 Next steps: Learning Laravel and the MERN stack. I am also interested in other languages like Python, Java, or C#, but only in my free time.
+<br>
 🎓 Studying "Web Programming and Design" at Escuela Da Vinci.
 
 I am open to other web-related jobs and projects, regardless of whether they require using a different technology. I'm willing to learn and use it everything adds up!
