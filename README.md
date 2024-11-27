@@ -7,7 +7,7 @@
 🌱 Next steps: Learning Laravel and the MERN stack. I am also interested in other languages like Python, Java, or C#, but only in my free time.
 🎓 Studying "Web Programming and Design" at Escuela Da Vinci.
 
-I am open to other web-related jobs and projects, regardless of whether they require using a different technology. I'm willing to learn and use it—everything adds up!
+I am open to other web-related jobs and projects, regardless of whether they require using a different technology. I'm willing to learn and use it everything adds up!
 
 <br>
 
