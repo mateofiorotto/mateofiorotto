@@ -34,6 +34,11 @@ I am open to other web-related jobs and projects, regardless of whether they req
 
 <h2 align="left">Technologies</h2>
 <p class="technologies" align="left">
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd,figma,blender,unity,unreal,notion,md,cmake,docker,kubernetes,postman,c,cs,cpp,dart,go,java,kotlin,nodejs,php,py,rust,swift,html,css,js,ts,angular,bootstrap,django,dotnet,flask,flutter,laravel,react,spring,vue,pytorch,sklearn,tensorflow,visualstudio,vscode,arduino,androidstudio,linux,bash,anaconda,powershell,npm,pnpm,git,github,githubactions,azure,aws,cloudflare,firebase,mongodb,mysql,postgres,sqlite&perline=14" />
+  </a>
+</p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
   </a>
