@@ -2,6 +2,7 @@
 
 <br>
 
+## ENG
 🖥️ Fullstack Web Developer and Designer.
 <br>
 <br>
@@ -17,7 +18,21 @@ I am open to other web-related jobs and projects, regardless of whether they req
 
 <br>
 
-<h2 align="left">Get in touch:</h2>
+## ESP
+🖥️ Desarrollador y Diseñador Web Fullstack.
+<br>
+<br>
+💼 Actualmente trabajando en la Municipalidad de Gualeguaychú, Argentina, en desarrollo web con PHP y aportando ideas de diseño para el sitio web municipal.
+<br>
+<br>
+🌱 Próximos pasos: Aprender Laravel y el stack MERN. También me interesan otros lenguajes como Python, Java o C#, pero solo en mi tiempo libre.
+<br>
+<br>
+🎓 Estudiando "Programación y Diseño Web" en la Escuela Da Vinci.
+
+Estoy abierto a otros trabajos y proyectos relacionados con la web, independientemente de si requieren el uso de una tecnología diferente. Estoy dispuesto a aprender y utilizar cualquier herramienta que sume experiencia.
+
+<h2 align="left">Get in touch / Contacto:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/mateo-fiorotto/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -32,7 +47,7 @@ I am open to other web-related jobs and projects, regardless of whether they req
 
 <br>
 
-<h2 align="left">Technologies</h2>
+<h2 align="left">Technologies / Tecnologías</h2>
 <p class="technologies" align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,mysql,php,git,vue" />
@@ -41,7 +56,7 @@ I am open to other web-related jobs and projects, regardless of whether they req
 
 <br>
 
-<h2 align="left">Tools</h2>
+<h2 align="left">Tools / Herramientas</h2>
 <p class="tools" align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,ai,ae,pr,photoshop,figma,notion" />
