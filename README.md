@@ -32,7 +32,7 @@ I am open to other web-related jobs and projects, regardless of whether they req
 
 Estoy abierto a otros trabajos y proyectos relacionados con la web, independientemente de si requieren el uso de una tecnología diferente. Estoy dispuesto a aprender y utilizar cualquier herramienta que sume experiencia.
 
-<h2 align="left">Get in touch / Contacto:</h2>
+<h2 align="left">Get in touch / Contacto</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/mateo-fiorotto/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
