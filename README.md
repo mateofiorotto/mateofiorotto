@@ -50,7 +50,7 @@ Estoy abierto a otros trabajos y proyectos relacionados con la web, independient
 <h2 align="left">Technologies / Tecnologías</h2>
 <p class="technologies" align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,mysql,php,git,vue" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,mysql,php,git,vue,laravel" />
   </a>
 </p>
 
