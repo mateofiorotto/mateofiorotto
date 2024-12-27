@@ -62,6 +62,7 @@ Estoy abierto a otros trabajos y proyectos relacionados con la web, independient
     <img src="https://skillicons.dev/icons?i=vscode,ai,ae,pr,photoshop,figma,notion" />
   </a>
 </p>
+<p>I don't use adobe right now, but i have experience // No uso adobe ahora mismo, pero tengo experiencia.</p>
 
 <br>
 
