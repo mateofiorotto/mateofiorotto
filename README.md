@@ -9,7 +9,7 @@
 💼 Currently working at the municipality of Gualeguaychú, Argentina, in web development with PHP and contributing design ideas for the municipal website.
 <br>
 <br>
-🌱 Next steps: Learning Laravel and the MERN stack. I am also interested in other languages like Python, Java, or C#, but only in my free time.
+🌱 Next steps: Learn Java and Spring. In the course, I will cover topics on MERN and Laravel.
 <br>
 <br>
 🎓 Studying "Web Programming and Design" at Escuela Da Vinci.
@@ -25,7 +25,7 @@ I am open to other web-related jobs and projects, regardless of whether they req
 💼 Actualmente trabajando en la Municipalidad de Gualeguaychú, Argentina, en desarrollo web con PHP y aportando ideas de diseño para el sitio web municipal.
 <br>
 <br>
-🌱 Próximos pasos: Aprender Laravel y el stack MERN. También me interesan otros lenguajes como Python, Java o C#, pero solo en mi tiempo libre.
+🌱 Próximos pasos: Aprender Java y Spring. En la carrera daré los temas de MERN y Laravel.
 <br>
 <br>
 🎓 Estudiando "Programación y Diseño Web" en la Escuela Da Vinci.
