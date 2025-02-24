@@ -14,7 +14,7 @@
 <br>
 🎓 Studying "Web Programming and Design" at Escuela Da Vinci.
 
-I am open to other web-related jobs and projects, regardless of whether they require using a different technology. I'm willing to learn and use it everything adds up!
+I am open to other web related jobs and projects, regardless of whether they require using a different technology. I'm willing to learn and use it everything adds up!
 
 <br>
 
@@ -30,7 +30,7 @@ I am open to other web-related jobs and projects, regardless of whether they req
 <br>
 🎓 Estudiando "Programación y Diseño Web" en la Escuela Da Vinci.
 
-Estoy abierto a otros trabajos y proyectos relacionados con la web, independientemente de si requieren el uso de una tecnología diferente. Estoy dispuesto a aprender y utilizar cualquier herramienta que sume experiencia.
+Estoy abierto a otros trabajos y proyectos relacionados con web, independientemente de si requieren el uso de una tecnología diferente. Estoy dispuesto a aprender y utilizar cualquier herramienta que sume experiencia.
 
 <h2 align="left">Get in touch / Contacto</h2>
 <p align="left">
@@ -44,6 +44,7 @@ Estoy abierto a otros trabajos y proyectos relacionados con la web, independient
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="mateo_fiorotto_ X / Twitter" height="30" width="40" /></a>
 </p>
+<p>I don't use social media too much, if it's possible send me a mail: mateofiorotto2004@gmail.com / No uso mucho las redes sociales, si es posible enviame un mail: mateofiorotto2004@gmail.com</p>
 
 <br>
 
