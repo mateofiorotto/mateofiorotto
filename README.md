@@ -44,7 +44,9 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="mateo_fiorotto_ X / Twitter" height="30" width="40" /></a>
 </p>
-<p>I don't use social media too much, if it's possible send me a mail: mateofiorotto2004@gmail.com / No uso mucho las redes sociales, si es posible enviame un mail: mateofiorotto2004@gmail.com</p>
+<p>I don't use social media too much, if it's possible send me a mail: mateofiorotto2004@gmail.com</p>
+<br>
+<p>No uso mucho las redes sociales, si es posible enviame un mail: mateofiorotto2004@gmail.com</p>
 
 <br>
 
