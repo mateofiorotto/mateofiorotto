@@ -44,16 +44,15 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="mateo_fiorotto_ X / Twitter" height="30" width="40" /></a>
 </p>
-<p>I don't use social media too much, if it's possible send me a mail: mateofiorotto2004@gmail.com</p>
-<br>
-<p>No uso mucho las redes sociales, si es posible enviame un mail: mateofiorotto2004@gmail.com</p>
+<p>I don't use social media too much, if it's possible send me a mail: mateofiorotto2004@gmail.com // No uso mucho las redes sociales, si es posible enviame un mail: mateofiorotto2004@gmail.com</p>
 
 <br>
 
 <h2 align="left">Technologies I'm focusing on / Tecnologías en las que me estoy enfocando</h2>
+<p>I'm still learning them but I'd like to work with these technologies // Todavia las estoy aprendiendo pero me gustaria trabajar con estas tecnologias</p>
 <p class="technologies" align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,springboot,hibernate,maven" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
   </a>
 </p>
 
