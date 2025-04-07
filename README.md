@@ -50,10 +50,10 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
 
 <br>
 
-<h2 align="left">Technologies / Tecnologías</h2>
+<h2 align="left">Technologies I'm focusing on / Tecnologías en las que me estoy enfocando</h2>
 <p class="technologies" align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,maven,gradle,docker" />
+    <img src="https://skillicons.dev/icons?i=java,springboot,hibernate,maven" />
   </a>
 </p>
 
