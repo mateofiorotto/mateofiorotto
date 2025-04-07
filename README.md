@@ -53,7 +53,16 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
 <h2 align="left">Technologies / Tecnologías</h2>
 <p class="technologies" align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,mysql,php,git,vue,laravel,mongo,express,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,maven,gradle,docker" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="left">Technologies / Tecnologías</h2>
+<p class="technologies" align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,mysql,php,vue,laravel,mongo,express,nodejs" />
   </a>
 </p>
 
@@ -62,7 +71,7 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
 <h2 align="left">Tools / Herramientas</h2>
 <p class="tools" align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ai,ae,pr,photoshop,figma,notion" />
+    <img src="https://skillicons.dev/icons?i=vscode,ai,ae,pr,photoshop,figma,notion,git" />
   </a>
 </p>
 <p>I don't use adobe right now, but i have experience // No uso adobe ahora mismo, pero tengo experiencia.</p>
