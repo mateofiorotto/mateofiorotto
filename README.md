@@ -70,7 +70,7 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
 <h2 align="left">Tools / Herramientas</h2>
 <p class="tools" align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ai,ae,pr,photoshop,figma,notion,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,ai,ae,pr,photoshop,figma,notion,git,idea" />
   </a>
 </p>
 <p>I don't use adobe right now, but i have experience // No uso adobe ahora mismo, pero tengo experiencia.</p>
