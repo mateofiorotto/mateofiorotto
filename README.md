@@ -30,7 +30,7 @@ I am open to other web related jobs and projects, regardless of whether they req
 <br>
 🎓 Estudiando "Programación y Diseño Web" en la Escuela Da Vinci.
 
-Estoy abierto a otros trabajos y proyectos relacionados con web, independientemente de si requieren el uso de una tecnología diferente. Estoy dispuesto a aprender y utilizar cualquier herramienta que sume experiencia.
+Estoy abierto a otros trabajos y proyectos relacionados con web, independientemente de si requieren el uso de una tecnología diferente. Estoy dispuesto a aprender y utilizar cualquier herramienta que sume experiencia!
 
 <h2 align="left">Get in touch / Contacto</h2>
 <p align="left">
