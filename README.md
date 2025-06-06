@@ -6,10 +6,10 @@
 🖥️ Fullstack Web Developer and Designer.
 <br>
 <br>
-💼 Currently working at the municipality of Gualeguaychú, Argentina, in web development with PHP and contributing design ideas for the municipal website.
+💼 Currently working at the Municipality of Gualeguaychú, Argentina, in the web development area using pure PHP and JS, where I perform maintenance tasks and contribute design ideas for the municipal website.
 <br>
 <br>
-🌱 Next steps: Learn MERN and Laravel in the degree. Self-taught Spring Boot, Spring Security, and microservices.
+🌱 Next steps: Learn Spring Security, Functional Programming in Java, Angular, Testing with JUnit and Mockito, and Microservices with Spring Cloud.
 <br>
 <br>
 🎓 Studying "Web Programming and Design" at Escuela Da Vinci.
@@ -22,10 +22,10 @@ I am open to other web related jobs and projects, regardless of whether they req
 🖥️ Desarrollador y Diseñador Web Fullstack.
 <br>
 <br>
-💼 Actualmente trabajando en la Municipalidad de Gualeguaychú, Argentina, en desarrollo web con PHP y aportando ideas de diseño para el sitio web municipal.
+💼 Actualmente trabajando en la Municipalidad de Gualeguaychú, Argentina, en el area de desarrollo web con PHP y JS puros, donde realizo tareas de mantenimiento y aporto ideas de diseño para el sitio web municipal.
 <br>
 <br>
-🌱 Próximos pasos: Aprender MERN y Laravel en la carrera. Aprendiendo de forma autodidacta Spring boot, spring security y microservicios
+🌱 Próximos pasos: Aprender Spring Security, Programacion Funcional en Java, Angular, Testing con JUnit y Mockito y Microservicios con Spring Cloud.
 <br>
 <br>
 🎓 Estudiando "Programación y Diseño Web" en la Escuela Da Vinci.
