@@ -48,17 +48,16 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
 
 <br>
 
-<h2 align="left">Technologies I'm focusing on / Tecnologías en las que me estoy enfocando</h2>
-<p>I'm still learning them but I'd like to work with these technologies // Todavia las estoy aprendiendo pero me gustaria trabajar con estas tecnologias</p>
+<h2 align="left">Main Technologies | Tecnologias Principales</h2>
 <p class="technologies" align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,ts,angular" />
   </a>
 </p>
 
 <br>
 
-<h2 align="left">Technologies / Tecnologías</h2>
+<h2 align="left">Other Technologies | Otras Tecnologias</h2>
 <p class="technologies" align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,mysql,php,vue,laravel,mongo,express,nodejs,wordpress,react" />
