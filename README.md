@@ -32,7 +32,7 @@ I am open to other web related jobs and projects, regardless of whether they req
 
 Estoy abierto a otros trabajos y proyectos relacionados con web, independientemente de si requieren el uso de una tecnología diferente. Estoy dispuesto a aprender y utilizar cualquier herramienta que sume experiencia!
 
-<h2 align="left">Get in touch / Contacto</h2>
+<h2 align="left">Contact | Contacto</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/mateo-fiorotto/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -44,7 +44,7 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="mateo_fiorotto_ X / Twitter" height="30" width="40" /></a>
 </p>
-<p>I don't use social media too much, if it's possible send me a mail: mateofiorotto2004@gmail.com // No uso mucho las redes sociales, si es posible enviame un mail: mateofiorotto2004@gmail.com</p>
+<p>I don't use social media too much, if it's possible send me a mail: mateofiorotto2004@gmail.com | No uso mucho las redes sociales, si es posible enviame un mail: mateofiorotto2004@gmail.com</p>
 
 <br>
 
@@ -66,7 +66,7 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
 
 <br>
 
-<h2 align="left">Tools / Herramientas</h2>
+<h2 align="left">Tools | Herramientas</h2>
 <p class="tools" align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,ai,ae,pr,photoshop,figma,notion,git,idea" />
