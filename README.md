@@ -9,7 +9,7 @@
 💼 Currently working at the Municipality of Gualeguaychú, Argentina, in the web development area using pure PHP and JS, where I perform maintenance tasks and contribute design ideas for the municipal website.
 <br>
 <br>
-🌱 Next steps: Learn Spring Security, Functional Programming in Java, Angular, Testing with JUnit and Mockito, and Microservices with Spring Cloud.
+🌱 Next steps: Functional Programming in Java, Testing with JUnit and Mockito, Microservices with Spring Cloud and maybe angular
 <br>
 <br>
 🎓 Studying "Web Programming and Design" at Escuela Da Vinci.
@@ -25,7 +25,7 @@ I am open to other web related jobs and projects, regardless of whether they req
 💼 Actualmente trabajando en la Municipalidad de Gualeguaychú, Argentina, en el area de desarrollo web con PHP y JS puros, donde realizo tareas de mantenimiento y aporto ideas de diseño para el sitio web municipal.
 <br>
 <br>
-🌱 Próximos pasos: Aprender Spring Security, Programacion Funcional en Java, Angular, Testing con JUnit y Mockito y Microservicios con Spring Cloud.
+🌱 Próximos pasos: Aprender Programacion Funcional en Java, Testing con JUnit y Mockito, Microservicios con Spring Cloud y quizas Angular.
 <br>
 <br>
 🎓 Estudiando "Programación y Diseño Web" en la Escuela Da Vinci.
@@ -51,7 +51,7 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
 <h2 align="left">Main Technologies | Tecnologias Principales</h2>
 <p class="technologies" align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,ts,angular" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
 <h2 align="left">Other Technologies | Otras Tecnologias</h2>
 <p class="technologies" align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,mysql,php,vue,laravel,mongo,express,nodejs,wordpress,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,mysql,php,vue,laravel,mongo,express,nodejs,wordpress,react,ts" />
   </a>
 </p>
 
