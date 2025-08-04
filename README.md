@@ -37,14 +37,8 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
   <a href="https://www.linkedin.com/in/mateo-fiorotto/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="mateo fiorotto linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/mateo.fiorotto_" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="mateo.fiorotto_ instagram" height="30" width="40" /></a>
- <a href="https://x.com/mateo_fiorotto_" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="mateo_fiorotto_ X / Twitter" height="30" width="40" /></a>
 </p>
-<p>I don't use social media too much, if it's possible send me a mail: mateofiorotto2004@gmail.com | No uso mucho las redes sociales, si es posible enviame un mail: mateofiorotto2004@gmail.com</p>
+<p>Or you can send a mail | O puedes enviarme un mail: mateofiorotto2004@gmail.com</p>
 
 <br>
 
@@ -72,7 +66,7 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
     <img src="https://skillicons.dev/icons?i=vscode,ai,ae,pr,photoshop,figma,notion,git,idea" />
   </a>
 </p>
-<p>I don't use adobe right now, but i have experience // No uso adobe ahora mismo, pero tengo experiencia.</p>
+<p>I don't use adobe right now, but i have experience | No uso adobe ahora mismo, pero tengo experiencia</p>
 
 <br>
 
