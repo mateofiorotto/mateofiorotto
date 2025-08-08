@@ -45,7 +45,7 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
 <h2 align="left">Main Technologies | Tecnologias Principales</h2>
 <p class="technologies" align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,angular,ts" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
 <h2 align="left">Other Technologies | Otras Tecnologias</h2>
 <p class="technologies" align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,mysql,php,vue,laravel,mongo,express,nodejs,wordpress,react,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,mysql,php,vue,laravel,mongo,express,nodejs,wordpress,react" />
   </a>
 </p>
 
