@@ -36,19 +36,28 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
 
 <br>
 
-<h2 align="left">Main Technologies | Tecnologias Principales</h2>
+<h2 align="left">Main Backend Technologies | Tecnologias Principales Backend</h2>
 <p class="technologies" align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react,php,java,spring,hibernate,maven,angular,ts" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,java,spring" />
   </a>
 </p>
 
 <br>
 
-<h2 align="left">Other Technologies | Otras Tecnologias</h2>
+<h2 align="left">Main Frontend Technologies | Tecnologias Principales Frontend</h2>
 <p class="technologies" align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,mysql,php,vue,laravel,mongo,express,nodejs,wordpress,react" />
+    <img src="https://skillicons.dev/icons?i=react,angular,ts,js,bootstrap,tailwind,html,css" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="left">Other Technologies that I used | Otras tecnologías que use</h2>
+<p class="technologies" align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sass,vue,mongo,express,nodejs,wordpress,hibernate,maven" />
   </a>
 </p>
 
@@ -57,7 +66,7 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
 <h2 align="left">Tools | Herramientas</h2>
 <p class="tools" align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ai,ae,pr,photoshop,figma,notion,git,idea" />
+    <img src="https://skillicons.dev/icons?i=vscode,ai,ae,pr,photoshop,figma,notion,git,idea,trello" />
   </a>
 </p>
 <p>I don't use adobe right now, but i have experience | No uso adobe ahora mismo, pero tengo experiencia</p>
