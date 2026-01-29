@@ -61,8 +61,6 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
   </a>
 </p>
 
-<p>I haven't used these technologies that much, but I know the basics | No he usado tanto estas tecnologías, pero conozco lo básico</p>
-
 <br>
 
 <h2 align="left">Tools | Herramientas</h2>
