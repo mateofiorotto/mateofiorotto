@@ -32,7 +32,7 @@ Estoy abierto a otros trabajos y proyectos relacionados con web, independienteme
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="mateo fiorotto linkedin" height="30" width="40" /></a>
 </p>
-<p>Or you can send a mail | O puedes enviarme un mail: mateofiorotto2004@gmail.com</p>
+<p>Or you can send a mail | O puedes enviarme un mail: mateofiorotto.dev@gmail.com</p>
 
 <br>
 
